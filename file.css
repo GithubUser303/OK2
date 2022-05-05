@@ -1,0 +1,16 @@
+#video{
+    width:100%;
+    height:400px;
+    margin-top:-20;
+}
+.travel_name{
+    border:0px solid black;
+}
+.travel_name img{
+    width: 1000;
+}
+body{
+   text-align: center;
+    justify-content: center;
+}
+
